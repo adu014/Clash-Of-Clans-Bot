@@ -99,4 +99,3 @@ python bot.py
 This bot is intended for educational purposes and personal use only. Use it responsibly to avoid unintended consequences.
 ```
 
-This formatted `README.md` is clean, easy to read, and structured for a GitHub repository, ensuring clarity and professionalism.
